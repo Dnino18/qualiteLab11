@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "dependencies": {
-    "eslint": "^9.6.0",
-    "save-dev": "^0.0.1-security"
+  "devDependencies": {
+    "eslint": "^9.6.0"
   }
 }
